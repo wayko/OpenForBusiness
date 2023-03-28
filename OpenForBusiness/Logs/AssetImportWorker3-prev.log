@@ -15,11 +15,11 @@ H:/Programming/Unity Games/OpenForBusiness/OpenForBusiness
 -logFile
 Logs/AssetImportWorker3.log
 -srvPort
-58974
+53725
 Successfully changed project path to: H:/Programming/Unity Games/OpenForBusiness/OpenForBusiness
 H:/Programming/Unity Games/OpenForBusiness/OpenForBusiness
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 754.52 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 354.39 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.15f2 (6cf78cb77498)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/Resources/UnitySubsystems
@@ -33,106 +33,106 @@ Direct3D:
     Driver:   21.21.13.4201
 Could not load symbol clCreateImage : The specified procedure could not be found.
 
-0x00007ff623c7599c (Unity) StackWalker::GetCurrentCallstack
-0x00007ff623c7dd79 (Unity) StackWalker::ShowCallstack
-0x00007ff6251852ac (Unity) GetStacktrace
-0x00007ff6262acae3 (Unity) DebugStringToFile
-0x00007ff62391da92 (Unity) LookupSymbol
-0x00007ff625cac45e (Unity) InitializeOpenCLLibrary
-0x00007ff625b10f79 (Unity) gi::InitializeManagers
-0x00007ff6247fc890 (Unity) Application::InitializeProject
-0x00007ff625192812 (Unity) WinMain
-0x00007ff626fdb016 (Unity) __scrt_common_main_seh
+0x00007ff7cb12599c (Unity) StackWalker::GetCurrentCallstack
+0x00007ff7cb12dd79 (Unity) StackWalker::ShowCallstack
+0x00007ff7cc6352ac (Unity) GetStacktrace
+0x00007ff7cd75cae3 (Unity) DebugStringToFile
+0x00007ff7cadcda92 (Unity) LookupSymbol
+0x00007ff7cd15c45e (Unity) InitializeOpenCLLibrary
+0x00007ff7ccfc0f79 (Unity) gi::InitializeManagers
+0x00007ff7cbcac890 (Unity) Application::InitializeProject
+0x00007ff7cc642812 (Unity) WinMain
+0x00007ff7ce48b016 (Unity) __scrt_common_main_seh
 0x00007ff974637034 (KERNEL32) BaseThreadInitThunk
 0x00007ff9757a2651 (ntdll) RtlUserThreadStart
 
 Could not load symbol clEnqueueFillBuffer : The specified procedure could not be found.
 
-0x00007ff623c7599c (Unity) StackWalker::GetCurrentCallstack
-0x00007ff623c7dd79 (Unity) StackWalker::ShowCallstack
-0x00007ff6251852ac (Unity) GetStacktrace
-0x00007ff6262acae3 (Unity) DebugStringToFile
-0x00007ff62391da92 (Unity) LookupSymbol
-0x00007ff625cac686 (Unity) InitializeOpenCLLibrary
-0x00007ff625b10f79 (Unity) gi::InitializeManagers
-0x00007ff6247fc890 (Unity) Application::InitializeProject
-0x00007ff625192812 (Unity) WinMain
-0x00007ff626fdb016 (Unity) __scrt_common_main_seh
+0x00007ff7cb12599c (Unity) StackWalker::GetCurrentCallstack
+0x00007ff7cb12dd79 (Unity) StackWalker::ShowCallstack
+0x00007ff7cc6352ac (Unity) GetStacktrace
+0x00007ff7cd75cae3 (Unity) DebugStringToFile
+0x00007ff7cadcda92 (Unity) LookupSymbol
+0x00007ff7cd15c686 (Unity) InitializeOpenCLLibrary
+0x00007ff7ccfc0f79 (Unity) gi::InitializeManagers
+0x00007ff7cbcac890 (Unity) Application::InitializeProject
+0x00007ff7cc642812 (Unity) WinMain
+0x00007ff7ce48b016 (Unity) __scrt_common_main_seh
 0x00007ff974637034 (KERNEL32) BaseThreadInitThunk
 0x00007ff9757a2651 (ntdll) RtlUserThreadStart
 
 Could not load symbol clEnqueueFillImage : The specified procedure could not be found.
 
-0x00007ff623c7599c (Unity) StackWalker::GetCurrentCallstack
-0x00007ff623c7dd79 (Unity) StackWalker::ShowCallstack
-0x00007ff6251852ac (Unity) GetStacktrace
-0x00007ff6262acae3 (Unity) DebugStringToFile
-0x00007ff62391da92 (Unity) LookupSymbol
-0x00007ff625cac6e2 (Unity) InitializeOpenCLLibrary
-0x00007ff625b10f79 (Unity) gi::InitializeManagers
-0x00007ff6247fc890 (Unity) Application::InitializeProject
-0x00007ff625192812 (Unity) WinMain
-0x00007ff626fdb016 (Unity) __scrt_common_main_seh
+0x00007ff7cb12599c (Unity) StackWalker::GetCurrentCallstack
+0x00007ff7cb12dd79 (Unity) StackWalker::ShowCallstack
+0x00007ff7cc6352ac (Unity) GetStacktrace
+0x00007ff7cd75cae3 (Unity) DebugStringToFile
+0x00007ff7cadcda92 (Unity) LookupSymbol
+0x00007ff7cd15c6e2 (Unity) InitializeOpenCLLibrary
+0x00007ff7ccfc0f79 (Unity) gi::InitializeManagers
+0x00007ff7cbcac890 (Unity) Application::InitializeProject
+0x00007ff7cc642812 (Unity) WinMain
+0x00007ff7ce48b016 (Unity) __scrt_common_main_seh
 0x00007ff974637034 (KERNEL32) BaseThreadInitThunk
 0x00007ff9757a2651 (ntdll) RtlUserThreadStart
 
 Could not load symbol clEnqueueMarkerWithWaitList : The specified procedure could not be found.
 
-0x00007ff623c7599c (Unity) StackWalker::GetCurrentCallstack
-0x00007ff623c7dd79 (Unity) StackWalker::ShowCallstack
-0x00007ff6251852ac (Unity) GetStacktrace
-0x00007ff6262acae3 (Unity) DebugStringToFile
-0x00007ff62391da92 (Unity) LookupSymbol
-0x00007ff625cac938 (Unity) InitializeOpenCLLibrary
-0x00007ff625b10f79 (Unity) gi::InitializeManagers
-0x00007ff6247fc890 (Unity) Application::InitializeProject
-0x00007ff625192812 (Unity) WinMain
-0x00007ff626fdb016 (Unity) __scrt_common_main_seh
+0x00007ff7cb12599c (Unity) StackWalker::GetCurrentCallstack
+0x00007ff7cb12dd79 (Unity) StackWalker::ShowCallstack
+0x00007ff7cc6352ac (Unity) GetStacktrace
+0x00007ff7cd75cae3 (Unity) DebugStringToFile
+0x00007ff7cadcda92 (Unity) LookupSymbol
+0x00007ff7cd15c938 (Unity) InitializeOpenCLLibrary
+0x00007ff7ccfc0f79 (Unity) gi::InitializeManagers
+0x00007ff7cbcac890 (Unity) Application::InitializeProject
+0x00007ff7cc642812 (Unity) WinMain
+0x00007ff7ce48b016 (Unity) __scrt_common_main_seh
 0x00007ff974637034 (KERNEL32) BaseThreadInitThunk
 0x00007ff9757a2651 (ntdll) RtlUserThreadStart
 
 Could not load symbol clGetExtensionFunctionAddressForPlatform : The specified procedure could not be found.
 
-0x00007ff623c7599c (Unity) StackWalker::GetCurrentCallstack
-0x00007ff623c7dd79 (Unity) StackWalker::ShowCallstack
-0x00007ff6251852ac (Unity) GetStacktrace
-0x00007ff6262acae3 (Unity) DebugStringToFile
-0x00007ff62391da92 (Unity) LookupSymbol
-0x00007ff625cac994 (Unity) InitializeOpenCLLibrary
-0x00007ff625b10f79 (Unity) gi::InitializeManagers
-0x00007ff6247fc890 (Unity) Application::InitializeProject
-0x00007ff625192812 (Unity) WinMain
-0x00007ff626fdb016 (Unity) __scrt_common_main_seh
+0x00007ff7cb12599c (Unity) StackWalker::GetCurrentCallstack
+0x00007ff7cb12dd79 (Unity) StackWalker::ShowCallstack
+0x00007ff7cc6352ac (Unity) GetStacktrace
+0x00007ff7cd75cae3 (Unity) DebugStringToFile
+0x00007ff7cadcda92 (Unity) LookupSymbol
+0x00007ff7cd15c994 (Unity) InitializeOpenCLLibrary
+0x00007ff7ccfc0f79 (Unity) gi::InitializeManagers
+0x00007ff7cbcac890 (Unity) Application::InitializeProject
+0x00007ff7cc642812 (Unity) WinMain
+0x00007ff7ce48b016 (Unity) __scrt_common_main_seh
 0x00007ff974637034 (KERNEL32) BaseThreadInitThunk
 0x00007ff9757a2651 (ntdll) RtlUserThreadStart
 
 Could not load symbol clUnloadPlatformCompiler : The specified procedure could not be found.
 
-0x00007ff623c7599c (Unity) StackWalker::GetCurrentCallstack
-0x00007ff623c7dd79 (Unity) StackWalker::ShowCallstack
-0x00007ff6251852ac (Unity) GetStacktrace
-0x00007ff6262acae3 (Unity) DebugStringToFile
-0x00007ff62391da92 (Unity) LookupSymbol
-0x00007ff625caca4c (Unity) InitializeOpenCLLibrary
-0x00007ff625b10f79 (Unity) gi::InitializeManagers
-0x00007ff6247fc890 (Unity) Application::InitializeProject
-0x00007ff625192812 (Unity) WinMain
-0x00007ff626fdb016 (Unity) __scrt_common_main_seh
+0x00007ff7cb12599c (Unity) StackWalker::GetCurrentCallstack
+0x00007ff7cb12dd79 (Unity) StackWalker::ShowCallstack
+0x00007ff7cc6352ac (Unity) GetStacktrace
+0x00007ff7cd75cae3 (Unity) DebugStringToFile
+0x00007ff7cadcda92 (Unity) LookupSymbol
+0x00007ff7cd15ca4c (Unity) InitializeOpenCLLibrary
+0x00007ff7ccfc0f79 (Unity) gi::InitializeManagers
+0x00007ff7cbcac890 (Unity) Application::InitializeProject
+0x00007ff7cc642812 (Unity) WinMain
+0x00007ff7ce48b016 (Unity) __scrt_common_main_seh
 0x00007ff974637034 (KERNEL32) BaseThreadInitThunk
 0x00007ff9757a2651 (ntdll) RtlUserThreadStart
 
 Could not load symbol clCreateFromGLTexture : The specified procedure could not be found.
 
-0x00007ff623c7599c (Unity) StackWalker::GetCurrentCallstack
-0x00007ff623c7dd79 (Unity) StackWalker::ShowCallstack
-0x00007ff6251852ac (Unity) GetStacktrace
-0x00007ff6262acae3 (Unity) DebugStringToFile
-0x00007ff62391da92 (Unity) LookupSymbol
-0x00007ff625cacbbc (Unity) InitializeOpenCLLibrary
-0x00007ff625b10f79 (Unity) gi::InitializeManagers
-0x00007ff6247fc890 (Unity) Application::InitializeProject
-0x00007ff625192812 (Unity) WinMain
-0x00007ff626fdb016 (Unity) __scrt_common_main_seh
+0x00007ff7cb12599c (Unity) StackWalker::GetCurrentCallstack
+0x00007ff7cb12dd79 (Unity) StackWalker::ShowCallstack
+0x00007ff7cc6352ac (Unity) GetStacktrace
+0x00007ff7cd75cae3 (Unity) DebugStringToFile
+0x00007ff7cadcda92 (Unity) LookupSymbol
+0x00007ff7cd15cbbc (Unity) InitializeOpenCLLibrary
+0x00007ff7ccfc0f79 (Unity) gi::InitializeManagers
+0x00007ff7cbcac890 (Unity) Application::InitializeProject
+0x00007ff7cc642812 (Unity) WinMain
+0x00007ff7ce48b016 (Unity) __scrt_common_main_seh
 0x00007ff974637034 (KERNEL32) BaseThreadInitThunk
 0x00007ff9757a2651 (ntdll) RtlUserThreadStart
 
@@ -140,42 +140,42 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56092
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56988
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.006338 seconds.
+Registered in 0.005279 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 473.96 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 343.99 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in 14.242 seconds
+- Completed reload, in 11.530 seconds
 Domain Reload Profiling:
-	ReloadAssembly (14242ms)
-		BeginReloadAssembly (351ms)
+	ReloadAssembly (11530ms)
+		BeginReloadAssembly (341ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (11ms)
-		EndReloadAssembly (2916ms)
-			LoadAssemblies (333ms)
+			CreateAndSetChildDomain (4ms)
+		EndReloadAssembly (2079ms)
+			LoadAssemblies (332ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (926ms)
+			SetupTypeCache (692ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (234ms)
-			SetupLoadedEditorAssemblies (1285ms)
+			RebuildScriptCaches (175ms)
+			SetupLoadedEditorAssemblies (865ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (17ms)
+				InitializePlatformSupportModulesInManaged (18ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (481ms)
-				BeforeProcessingInitializeOnLoad (39ms)
-				ProcessInitializeOnLoadAttributes (521ms)
-				ProcessInitializeOnLoadMethodAttributes (222ms)
-				AfterProcessingInitializeOnLoad (1ms)
+				RefreshPlugins (344ms)
+				BeforeProcessingInitializeOnLoad (30ms)
+				ProcessInitializeOnLoadAttributes (366ms)
+				ProcessInitializeOnLoadMethodAttributes (105ms)
+				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.083416 seconds.
+Registered in 0.022383 seconds.
